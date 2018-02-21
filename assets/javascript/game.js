@@ -1,3 +1,4 @@
+//create variables
 var wins = 0;
 var showWin = document.getElementById("winNum");
 var losses = 0;
